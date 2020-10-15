@@ -1,10 +1,28 @@
 .host{
-    color: palegreen;
-    background: teal;
-    font-family: cursive;
+    color: gray;
+    background: black;
+    font-family: sans-serif;
     font-weight: 200;
+    
 }
 
 .parasite{
-    color: chocolate;
+    color: green;
+    
+    
+
+}
+
+.parasite1{
+    color: yellow;
+}
+
+.parasite2{
+    color: lightblue;
+}
+.parasite3{
+    color: brown;
+}
+.parasite4{
+    color: crimson;
 }
